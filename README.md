@@ -6,6 +6,7 @@ index: [About the Dataset](#about-the-dataset) | [Models Used](#models-used)
 
 models: 
 - [Logistic Regression](#logistic-regression)
+- [Perceptron](#perceptron)
 
 ## About the Dataset
 
@@ -22,3 +23,13 @@ This dataset contains 569 instances of tumors, with 30 numeric features from dig
 ### Confusion Matrix
 
 ![Logistic Regression Confusion Matrix](visualizations/logistic_regression_confusion_matrix.png)
+
+## Perceptron
+
+**Notebook:** [Perceptron](notebooks/perceptron_classifier.ipynb)
+
+**Accuracy:** 0.99
+
+### Confusion Matrix
+
+![Perceptron Confusion Matrix](visualizations/perceptron_confusion_matrix.png)
